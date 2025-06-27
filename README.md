@@ -32,7 +32,7 @@ This project is a smart irrigation system that uses soil moisture sensors and Io
 [Hardware Setup image](https://github.com/user-attachments/assets/67fb2ec8-536e-49a2-957d-b18719cd496c)
 
 ## 🎬 Demo Video
-https://drive.google.com/drive/folders/13NDBeSxxYCzQfUeErtRRGhEzB1y2qAqE
+https://drive.google.com/file/d/135aqMzhhuBRxDSHa1oz9TYhuTlM71FCa/view?usp=drivesdk
 
 
 ## 🙋‍♀️ Developed by Harshita Singh Bagri
